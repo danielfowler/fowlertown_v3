@@ -31,6 +31,16 @@ sections:
           instructions: 'This entry''s meta data.'
           display: Meta
       -
+        handle: nav_title
+        field:
+          input_type: text
+          character_limit: 40
+          antlers: false
+          display: 'Nav Title'
+          type: text
+          icon: text
+          listable: hidden
+      -
         handle: slug
         field:
           type: slug

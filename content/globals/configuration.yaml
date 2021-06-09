@@ -1,4 +1,4 @@
 title: Configuration
 data:
-  404_title: 'Page not found'
-  404_text: 'The page you were looking for is not available (anymore).'
+  404_title: 'Page Not Found'
+  404_text: 'The page you were looking for is not available (anymore). Please check the web address for typos, such as an accidental space at the beginning or end. If you clicked a link to get here, please go back and report a broken link to the administrator where that link is located.'
