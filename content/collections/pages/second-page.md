@@ -1,8 +1,9 @@
 ---
 id: 6b995156-142b-43d6-be4e-6c260ea90d37
-title: 'Second page'
-updated_by: 0099140b-7e75-4f28-a8f7-9ff4fec4e3a9
-updated_at: 1620730052
+blueprint: page
+title: 'Digital Expertise'
+updated_by: c1ffcad1-f698-49ae-8e70-05bbd7db8435
+updated_at: 1623246573
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry

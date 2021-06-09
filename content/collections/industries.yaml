@@ -1,0 +1,9 @@
+title: Industries
+template: industries/show
+layout: layout
+revisions: false
+route: 'industries/{slug}'
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
