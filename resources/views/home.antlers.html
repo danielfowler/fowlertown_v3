@@ -4,7 +4,7 @@
 #}}
 
 <main class="outer-grid">    
-    <h1>{{ title }}</h1>
+    {{ title | wrap:h1 }}
     {{ page_builder scope="block" }}
         {{ partial src="page_builder/{type}" }}
     {{ /page_builder }}

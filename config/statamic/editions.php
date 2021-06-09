@@ -2,8 +2,6 @@
 
 return [
 
-    'pro' => true,
-
     'addons' => [
         //
     ],

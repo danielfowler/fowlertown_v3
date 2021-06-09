@@ -6,7 +6,7 @@
 {{# The desktop navigation. Hidden on smaller screen. Shown from md and up. #}}
 <nav class="hidden md:block">
     <ul class="flex items-center space-x-8">
-        {{ nav:main max_depth="2" include_home="true" }}
+        {{ nav:main max_depth="2" include_home="false" }}
             <li
                 {{ if children }}
                     x-data="{ subnavOpen: false }"
@@ -71,7 +71,7 @@
         x-show="mobileNavOpen"
         x-cloak
     >
-        {{ nav:main max_depth="2" include_home="true" }}
+        {{ nav:main max_depth="2" include_home="false" }}
             <li
                 {{ if children }}
                     x-data="{ mobileNavSubnavOpen: false }"

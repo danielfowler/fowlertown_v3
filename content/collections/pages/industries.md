@@ -1,0 +1,13 @@
+---
+id: 45363ceb-c362-4ba6-b5a0-439f7b086d1a
+blueprint: page
+title: 'Industries Served'
+seo_noindex: false
+seo_nofollow: false
+seo_canonical_type: entry
+sitemap_change_frequency: weekly
+sitemap_priority: 0.5
+nav_title: Industries
+updated_by: c1ffcad1-f698-49ae-8e70-05bbd7db8435
+updated_at: 1623282308
+---

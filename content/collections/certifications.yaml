@@ -1,5 +1,10 @@
 title: Certifications
+template: default
+layout: layout
+mount: 40968890-a04c-413c-bf72-834184069d5d
 revisions: false
+route: '/certifications/{slug}'
+sort_dir: asc
 date_behavior:
   past: public
   future: private

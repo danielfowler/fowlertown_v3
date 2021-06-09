@@ -3,8 +3,15 @@ tree:
     entry: home
   -
     entry: 6b995156-142b-43d6-be4e-6c260ea90d37
+  -
+    entry: c93ca050-1978-4353-872f-30a4eeb9c9e0
     children:
       -
-        entry: 5c526dbf-9dd7-4c52-98d8-54e00ebddfb6
+        title: 'Web Strategy'
+        url: /services/web-strategy
       -
-        entry: 20f6a148-63b8-47a8-9b0e-d57095d78c21
+        title: 'Marketing Automation'
+        url: /services/email-automation
+      -
+        title: 'Project Management'
+        url: /services/project-management

@@ -1,6 +1,7 @@
 title: Industries
 template: industries/show
 layout: layout
+mount: 45363ceb-c362-4ba6-b5a0-439f7b086d1a
 revisions: false
 route: 'industries/{slug}'
 sort_dir: asc

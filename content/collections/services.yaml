@@ -1,9 +1,9 @@
-title: Services
+title: Expertise
 template: services/show
 layout: layout
 mount: c93ca050-1978-4353-872f-30a4eeb9c9e0
 revisions: false
-route: '/services/{slug}'
+route: '/expertise/{slug}'
 sort_dir: asc
 date_behavior:
   past: public
